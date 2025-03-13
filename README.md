@@ -5,7 +5,6 @@ face-api.js - JavaScript API for face detection and face recognition in the brow
 
 JavaScript emotion recognition API for the browser implemented on top of tensorflow.js core ([tensorflow/tfjs-core](https://github.com/tensorflow/tfjs))
 
-![1111](https://user-images.githubusercontent.com/33357541/84510350-b1d4ae00-accd-11ea-861a-9dac35070817.png)
 
 ## TO DO
 
